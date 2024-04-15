@@ -36,6 +36,10 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 
 
 # 🎖 Honors and Awards
+- 2017/2018/2019 **National Scholarship(国家奖学金)** at Southwest University (SWU).
+- 2019 **YuHui cholarship(玉辉奖学金)** at Southwest University (SWU).
+- 2020 **PingSheng cholarship(品胜奖学金)** at Southwest University (SWU).
+- 2020 **Scholarship of Gratitude to Chinese Modern and Contemporary Scientists** (Targeting 985/211 Universities in Western China).
 
 
 # 📖 Educations
