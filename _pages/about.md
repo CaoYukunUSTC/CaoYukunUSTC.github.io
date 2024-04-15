@@ -19,13 +19,11 @@ redirect_from:
 Yukun is a second-year Ph.D. student in [the Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm); Data Darkness Lab (DDL Lab, led by [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/index.html)), Center for Medical Imaging, Robotics,
 Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), led by [Prof. S. Kevin Zhou](https://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm)), [Suzhou Institute for Advance Research](https://sz.ustc.edu.cn/index.html), [the University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), supervised by [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/index.html)(since September 2020). 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 My personal homepage is online!. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
