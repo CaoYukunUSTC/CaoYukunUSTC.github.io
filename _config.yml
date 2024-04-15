@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Cao Yukun Personal Site"
-description              : "CYK"
+description              : ""
 repository               : "CaoYukunUSTC/CaoYukunUSTC.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "XXXX"
+  name             : "Yukun Cao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "USTC"
-  location         : "Beijing, China"
+  bio              : "Ph.D. student of Computer Science, USTC"
+  location         : "Suzhou/Hefei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : ""
+  email            : "ykcho@mail.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
