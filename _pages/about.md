@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Yukun is a second-year Ph.D. student in the Department of Computer Science and Technology (https://cs.ustc.edu.cn/main.htm); Data Darkness Lab (DDL, led by Prof. Xike Xie), Center for Medical Imaging, Robotics,
-Analytic Computing & Learning (MIRACLE, led by Prof. S. Kevin Zhou), Suzhou Institute for Advance Research, the University of Science and Technology of China (USTC), supervised by Prof. Xike Xie. 
+Yukun is a second-year Ph.D. student in [the Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm); Data Darkness Lab (DDL, led by [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/index.html), Center for Medical Imaging, Robotics,
+Analytic Computing & Learning ([MIRACLE](https://miracle.ustc.edu.cn/main.htm), led by [Prof. S. Kevin Zhou](https://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm)), Suzhou Institute for Advance Research, the University of Science and Technology of China (USTC), supervised by [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/index.html). 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
