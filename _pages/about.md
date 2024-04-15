@@ -26,19 +26,12 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 - <span style="color:red;">**\[TPAMI 24-Regular Paper\]**</span> **Yukun Cao**, Yuan Feng, Hairu Wang, Xike Xie, S. Kevin Zhou: "Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data": *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
 - <span style="color:blue;">**\[ICLR 24-Spotlight Paper\]**</span> Yuan Feng, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Xike Xie, S. Kevin Zhou: "Mayfly: a Neural Data Structure for Graph Stream Summarization": *The Twelfth International Conference on Learning Representations (ICLR 2024), __Spotlight (Rate:5%)__*.
 - <span style="color:blue;">**\[ICDE 23-Regular Paper\]**</span> **Yukun Cao**, Xike Xie, Kexing Huang: "Learn to Explore: on Bootstrapping Interactive Data Exploration with Meta-learning": *The 39th IEEE International Conference on Data Engineering (ICDE 2023)*.
-
+- <span style="color:blue;">**\[AAAI 23-Oral Paper\]**</span> : **Yukun Cao**, Yuan Feng, Xike Xie: " Meta-sketch: A Neural Data Structure for Estimating Item Frequencies of Data Streams": *Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023), __Oral (Rate:11%)__*.
+- <span style="color:green;">**\[GROUP 23-Demo Paper\]**</span> Haoyun Li, **Yukun Cao**, Xike Xie: " VR-Explorer: A Demonstration of a Virtual Reality Interactive Data Exploration System": *The 2023 ACM International Conference on Supporting Group Work (GROUP 2023), Companion*.
 
 Yuan Feng, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Xike Xie, S. Kevin Zhou: " Mayfly: a Neural Data Structure for Graph Stream Summarization": *The Twelfth International Conference on Learning Representations (ICLR) 2024, __Spotlight (Rate:5%)__*.
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming *e**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>"
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
