@@ -14,7 +14,7 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
+#  ![image](https://github.com/CaoYukunUSTC/CaoYukunUSTC.github.io/assets/167003062/cf2b4ff2-e825-433e-98f2-9feb0cccafc5) About me
 <span class='anchor' id='about-me'></span>
 Yukun is a second-year Ph.D. student in [the Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm); Data Darkness Lab (DDL Lab, led by [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/index.html)), Center for Medical Imaging, Robotics,
 Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), led by [Prof. S. Kevin Zhou](https://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm)), [Suzhou Institute for Advance Research](https://sz.ustc.edu.cn/index.html), [the University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), supervised by [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/index.html)(since September 2020). 
