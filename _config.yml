@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yukun Cao"
-  avatar           : "images/cyk_BIO.jpg"
+  avatar           : "images/cyk.jpg"
   bio              : "Ph.D. student of Computer Science, USTC"
   location         : "Suzhou/Hefei, China"
   employer         :
