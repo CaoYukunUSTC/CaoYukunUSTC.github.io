@@ -29,9 +29,9 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 - <span style="color:blue;">**\[AAAI 23-Oral Paper\]**</span> **Yukun Cao**, Yuan Feng, Xike Xie: " Meta-sketch: A Neural Data Structure for Estimating Item Frequencies of Data Streams": *Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023), __Oral (Rate:11%)__*.
 - <span style="color:green;">**\[GROUP 23-Demo Paper\]**</span> Haoyun Li, **Yukun Cao**, Xike Xie: " VR-Explorer: A Demonstration of a Virtual Reality Interactive Data Exploration System": *The 2023 ACM International Conference on Supporting Group Work (GROUP 2023), Companion*.
 - **Earlier collaborative papers**:
-    Exploring Semantic Change of Chinese Word Using Crawled Web Data. <span style="color:CornflowerBlue;"> **ICWE 2019**</span>
-    Social-Aware and Sequential Embedding for Cold-Start Recommendation. KSEM  2019
-    DST: A Deep Urban Traffic Flow Prediction Framework Based on Spatial-Temporal Features. KSEM 2019.
+    Exploring Semantic Change of Chinese Word Using Crawled Web Data. <span style="color:CornflowerBlue;"> **ICWE 2019**</span>\\
+    Social-Aware and Sequential Embedding for Cold-Start Recommendation. KSEM  2019\\
+    DST: A Deep Urban Traffic Flow Prediction Framework Based on Spatial-Temporal Features. KSEM 2019.\\
 
 
 
