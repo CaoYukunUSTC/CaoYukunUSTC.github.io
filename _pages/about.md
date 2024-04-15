@@ -23,7 +23,7 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 
 # 📝 Publications 
 
-- **\[TPAMI 24 (Regular paper)\]** "Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data.": **Yukun Cao**, Yuan Feng, Hairu Wang, Xike Xie, S. Kevin Zhou: *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2024*.
+- **\[TPAMI 24 (Regular paper)\]** "Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data": **Yukun Cao**, Yuan Feng, Hairu Wang, Xike Xie, S. Kevin Zhou: *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2024*.
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
