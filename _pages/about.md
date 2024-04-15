@@ -23,7 +23,7 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 
 # 📝 Publications 
 
-- **<font color='red'>TPAMI 2024 (Regular paper) </font>**
+- **<font color=red>TPAMI 2024 (Regular paper) </font>**
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
