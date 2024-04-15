@@ -29,9 +29,6 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 - <span style="color:blue;">**\[AAAI 23-Oral Paper\]**</span> **Yukun Cao**, Yuan Feng, Xike Xie: " Meta-sketch: A Neural Data Structure for Estimating Item Frequencies of Data Streams": *Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023), __Oral (Rate:11%)__*.
 - <span style="color:green;">**\[GROUP 23-Demo Paper\]**</span> Haoyun Li, **Yukun Cao**, Xike Xie: " VR-Explorer: A Demonstration of a Virtual Reality Interactive Data Exploration System": *The 2023 ACM International Conference on Supporting Group Work (GROUP 2023), Companion*.
 
-Yuan Feng, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Xike Xie, S. Kevin Zhou: " Mayfly: a Neural Data Structure for Graph Stream Summarization": *The Twelfth International Conference on Learning Representations (ICLR) 2024, __Spotlight (Rate:5%)__*.
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
