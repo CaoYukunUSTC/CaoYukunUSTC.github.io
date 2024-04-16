@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 # 👦 About me
 <span class='anchor' id='about-me'></span>
-Yukun is a second-year Ph.D. student in [the Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [the University of Science and Technology of China (USTC,中国科大)](https://www.ustc.edu.cn/); Data Darkness Lab (DDL Lab, led by [Prof. Xike Xie (谢希科)](http://staff.ustc.edu.cn/~xkxie/index.html)), Center for Medical Imaging, Robotics,
+Yukun is a second-year Ph.D. student in [the School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [the University of Science and Technology of China (USTC,中国科大)](https://www.ustc.edu.cn/); Data Darkness Lab (DDL Lab, led by [Prof. Xike Xie (谢希科)](http://staff.ustc.edu.cn/~xkxie/index.html)), Center for Medical Imaging, Robotics,
 Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main.htm), led by [Prof. S. Kevin Zhou (周少华)](https://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm)), [Suzhou Institute for Advance Research](https://sz.ustc.edu.cn/index.html), [USTC](https://www.ustc.edu.cn/), supervised by [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/index.html) (since September 2020). He received B.E. degree from [the College of Computer and Information Science and College of Software](http://cis.swu.edu.cn/), [Southwest University (SWU, 西南大学)](http://www.swu.edu.cn/) in 2020.
 
 # 🔎 Research Interests
@@ -68,11 +68,11 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 
     *School of Computer Science and Technology, University of Science and Technology of China (CS, USTC), Hefei, Anhui.*
 
-- **2020.09 - 2022.6, Master in Computer Science.**
+- **2020.09 - 2022.06, Master in Computer Science.**
 
     *School of Computer Science and Technology, University of Science and Technology of China (CS, USTC), Hefei, Anhui.*
  
-- **2016.09 - 2000.6, Bachelor in Computer Science.**
+- **2016.09 - 2020.06, Bachelor in Computer Science.**
 
     *College of Computer and Information Science and College of Software, Southwest University (CS, SWU), Beibei, Chongqing.*
  
