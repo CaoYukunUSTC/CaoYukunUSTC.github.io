@@ -22,6 +22,12 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 # 🔎 Research Interests
 <span class='anchor' id='-research-interests'></span>
 
+- **AI Field：** *Few-shot Learning*, *Meta-learning*, *Memory-augmented Network*, *LLM inference*
+- **DB Field：** *Data/Graph Stream Processing*, *Data Exploration*
+- **Focus Applications:** *AI for DB （e.g., Neural Data Structures, Automated Data Exploration, Learning-augmented Algorithms）*
+  
+
+
 
 
 # 🔥 News
