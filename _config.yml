@@ -27,7 +27,7 @@ author:
   location         : "Suzhou/Hefei, China"
   employer         :  "1998.08.22"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    :  ""
   email            : "ykcho@mail.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : ""
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
