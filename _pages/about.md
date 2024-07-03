@@ -22,9 +22,10 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 # 🔎 Research Interests
 <span class='anchor' id='-research-interests'></span>
 
-- **AI Field：** *Few-shot Learning*, *Meta-learning*, *Memory-augmented Network*, *LLM inference*, *Deep Generative Models*
+- **AI Field：** *Few-shot Learning*, *Meta-learning*, *Memory-augmented Network*, *Deep Generative Models*
+- **LLMs Field：** *Graph/KG RAG*, *LLMs for Graph Understanding/Reasoning*, *Memory Module in LLMs Agent*
 - **DB Field：** *Data/Graph Stream Processing*, *Data Exploration*, *Approximate Query Processing (AQP)*
-- **Focus Applications:** *AI for DB (e.g., Neural Data Structures, Automated Data Exploration, Learning-augmented Algorithms, Deep Generative Models-based AQP)*
+- **Focus Applications:** *AI for DB (e.g., Neural Data Structures, Automated Data Exploration, Learning-augmented Algorithms, Deep Generative Models-based AQP)*, *Memory Architecture and Mechanisms in LLMs*
   
 
 
