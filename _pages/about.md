@@ -44,10 +44,11 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 - <span style="color:blue;">**\[ICDE 23-Regular Paper (CCF-A)\]**</span> **Yukun Cao**, Xike Xie, Kexing Huang: "Learn to Explore: on Bootstrapping Interactive Data Exploration with Meta-learning": *The 39th IEEE International Conference on Data Engineering (ICDE 2023)*. [Paper](https://ieeexplore.ieee.org/document/10184532)
 - <span style="color:blue;">**\[AAAI 23-Oral Paper (CCF-A)\]**</span> **Yukun Cao**, Yuan Feng, Xike Xie: "Meta-sketch: A Neural Data Structure for Estimating Item Frequencies of Data Streams": *Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023), __Oral (Rate:11%)__*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25846)
 - <span style="color:green;">**\[GROUP 23-Demo Paper (CCF-B)\]**</span> Haoyun Li, **Yukun Cao**, Xike Xie: "VR-Explorer: A Demonstration of a Virtual Reality Interactive Data Exploration System": *The 2023 ACM International Conference on Supporting Group Work (GROUP 2023), Companion*. [Paper](https://dl.acm.org/doi/abs/10.1145/3565967.3570976), [Project Site](https://dataexplorevr.github.io/)
-- **Earlier collaborative papers**:
-    - Exploring Semantic Change of Chinese Word Using Crawled Web Data. <span style="color:CornflowerBlue;"> **ICWE 2019**</span>.
-    - Social-Aware and Sequential Embedding for Cold-Start Recommendation.<span style="color:CornflowerBlue;"> **KSEM 2019**</span>.
-    - DST: A Deep Urban Traffic Flow Prediction Framework Based on Spatial-Temporal Features. <span style="color:CornflowerBlue;"> **KSEM 2019**</span>.
+- <span style="color:green;">**\[KSEM 19-Long Paper (CCF-C)\]**</span> Jingyuan Wang, **Yukun Cao**, Ye Du, Li Li: "DST: A Deep Urban Traffic Flow Prediction Framework Based on Spatial-Temporal Features": * Knowledge Science, Engineering and Management-12th International Conference (KSEM 2019)*. 
+- <span style="color:green;">**\[ICWE 19-Long Paper (CCF-B)\]**</span>  Xiaofei Xu, **Yukun Cao**, Li Li: "Exploring Semantic Change of Chinese Word Using Crawled Web Data": *Web Engineering-19th International Conference (ICWE 2019)*.
+- <span style="color:green;">**\[KSEM 19-Long Paper (CCF-C)\]**</span>  Kexin Huang, **Yukun Cao**, Ye Du, Li Li,: "Social-Aware and Sequential Embedding for Cold-Start Recommendation": * Knowledge Science, Engineering and Management-12th International Conference (KSEM 2019)*.
+
+
 
 
 
