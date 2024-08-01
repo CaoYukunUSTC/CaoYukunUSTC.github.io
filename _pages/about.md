@@ -56,12 +56,15 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 <span class='anchor' id='-honors-and-awards'></span>
 
 - 2023 **Suzhou Industrial Park Scholarship (苏州工业园区奖学金)** at USTC.
-- 2022 **Yuan-Qing Scholarship (元庆奖学金)** at USTC (Selecting 4 PhD students in the 2022 class of School of Computer Science).
+- 2022 **Yuan-Qing Scholarship (元庆奖学金，选拔中科大计算机学院2022级的4名博士生)** at USTC (Selecting 4 PhD students in the 2022 class of School of Computer Science).
 - 2020 **Outstanding Graduates Award of Chongqing City (重庆市优秀毕业生)**.
-- 2020 **Scholarship of Gratitude to Chinese Modern and Contemporary Scientists (感恩中国近现代科学家奖学金)** (Targeting 985/211 project Universities in Western China, each university has only 10 students).
+- 2020 **Scholarship of Gratitude to Chinese Modern and Contemporary Scientists (感恩中国近现代科学家奖学金，面向中国西部的985/211高校评选，每所高校只评选10名)** (Targeting 985/211 project Universities in Western China, each university has only 10 students).
 - 2020 **Pin-Sheng cholarship (品胜奖学金)** at SWU (Rate: $\approx$ 1/480).
 - 2019 **Yu-Hui cholarship (玉辉奖学金)** at SWU (Rate: $\approx$ 1/480).
-- 2017/2018/2019 three times **National Scholarship (国家奖学金)** at SWU (Rate: $\approx$ 1/120).
+- 2017/2018/2019 three times **National Scholarship (三次获得国家奖学金)** at SWU (Rate: $\approx$ 1/120).
+- 2019 **Excellence in Learning Award (学习优胜奖)** at SWU.
+- 2018 **Advanced Individual in Technological Innovation (科创先进个人称号)** at SWU.
+- 2017/2018 twice **Outstanding Student Award（两次获得三好学生称号）** at SWU.
 
 # 📖 Educations
 <span class='anchor' id='-educations'></span>
@@ -75,8 +78,8 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
     *School of Computer Science and Technology, University of Science and Technology of China (CS, USTC), Hefei, Anhui.*
  
 - **2016.09 - 2020.06, Bachelor in Computer Science.**
-
-    *College of Computer and Information Science and College of Software, Southwest University (CS, SWU), Beibei, Chongqing.*
+ 
+    *College of Computer and Information Science and College of Software, Southwest University (CS, SWU), Beibei, Chongqing.* **Rank：1/126**
  
 
 
