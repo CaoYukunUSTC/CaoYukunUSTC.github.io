@@ -39,6 +39,9 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
 
+- <span style="color:gray;">**\[Arxiv\]**</span>  **Yukun Cao**, Shuo Han, Zengyi Gao, Zezhong Ding, Xike Xie, S Kevin Zhou: "GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding".  [Paper](https://arxiv.org/abs/2409.03258)
+- <span style="color:gray;">**\[Arxiv\]**</span>  Yuan Feng, Junlin Lv, **Yukun Cao**, Xike Xie, S. Kevin Zhou: "Optimizing KV Cache Eviction in
+LLMs: Adaptive Allocation for Enhanced Budget Utilization".  [Paper](https://arxiv.org/abs/2407.11550v3)
 - <span style="color:red;">**\[TPAMI 24-Regular Paper (CCF-A)\]**</span> **Yukun Cao**, Yuan Feng, Hairu Wang, Xike Xie, S. Kevin Zhou: "Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data": *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*. [Paper](https://ieeexplore.ieee.org/document/10499867)
 - <span style="color:blue;">**\[ICLR 24-Spotlight Paper (Top AI conf.)\]**</span> Yuan Feng, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Xike Xie, S. Kevin Zhou: "Mayfly: a Neural Data Structure for Graph Stream Summarization": *The Twelfth International Conference on Learning Representations (ICLR 2024), __Spotlight (Rate:5%)__*. [Paper](https://openreview.net/pdf?id=n7Sr8SW4bn)
 - <span style="color:blue;">**\[ICDE 23-Regular Paper (CCF-A)\]**</span> **Yukun Cao**, Xike Xie, Kexing Huang: "Learn to Explore: on Bootstrapping Interactive Data Exploration with Meta-learning": *The 39th IEEE International Conference on Data Engineering (ICDE 2023)*. [Paper](https://ieeexplore.ieee.org/document/10184532)
@@ -48,8 +51,6 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 - <span style="color:green;">**\[ICWE 19-Long Paper (CCF-C)\]**</span>  Xiaofei Xu, **Yukun Cao**, Li Li: "Exploring Semantic Change of Chinese Word Using Crawled Web Data": *Web Engineering-19th International Conference (ICWE 2019)*.
 - <span style="color:green;">**\[KSEM 19-Long Paper (CCF-C)\]**</span>  Kexin Huang, **Yukun Cao**, Ye Du, Li Li: "Social-Aware and Sequential Embedding for Cold-Start Recommendation": *Knowledge Science, Engineering and Management-12th International Conference (KSEM 2019)*.
 
-- <span style="color:gray;">**\[Arxiv\]**</span>  **Yukun Cao**, Shuo Han, Zengyi Gao, Zezhong Ding, Xike Xie, S Kevin Zhou: "GraphInsight:
-Unlocking Insights in Large Language Models for Graph Structure Understanding".  [Paper](https://arxiv.org/abs/2409.03258)
 
 
 
