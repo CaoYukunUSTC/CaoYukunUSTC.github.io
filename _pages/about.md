@@ -46,9 +46,10 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 - <span style="color:green;">**\[GROUP 23-Demo Paper (CCF-B)\]**</span> Haoyun Li, **Yukun Cao**, Xike Xie: "VR-Explorer: A Demonstration of a Virtual Reality Interactive Data Exploration System": *The 2023 ACM International Conference on Supporting Group Work (GROUP 2023), Companion*. [Paper](https://dl.acm.org/doi/abs/10.1145/3565967.3570976), [Project Site](https://dataexplorevr.github.io/)
 - <span style="color:green;">**\[KSEM 19-Long Paper (CCF-C)\]**</span> Jingyuan Wang, **Yukun Cao**, Ye Du, Li Li: "DST: A Deep Urban Traffic Flow Prediction Framework Based on Spatial-Temporal Features": *Knowledge Science, Engineering and Management-12th International Conference (KSEM 2019)*. 
 - <span style="color:green;">**\[ICWE 19-Long Paper (CCF-C)\]**</span>  Xiaofei Xu, **Yukun Cao**, Li Li: "Exploring Semantic Change of Chinese Word Using Crawled Web Data": *Web Engineering-19th International Conference (ICWE 2019)*.
-- <span style="color:green;">**\[KSEM 19-Long Paper (CCF-C)\]**</span>  Kexin Huang, **Yukun Cao**, Ye Du, Li Li,: "Social-Aware and Sequential Embedding for Cold-Start Recommendation": *Knowledge Science, Engineering and Management-12th International Conference (KSEM 2019)*.
+- <span style="color:green;">**\[KSEM 19-Long Paper (CCF-C)\]**</span>  Kexin Huang, **Yukun Cao**, Ye Du, Li Li: "Social-Aware and Sequential Embedding for Cold-Start Recommendation": *Knowledge Science, Engineering and Management-12th International Conference (KSEM 2019)*.
 
-
+- <span style="color:gray;">**\[Arxiv\]**</span>  **Yukun Cao**, Shuo Han, Zengyi Gao, Zezhong Ding, Xike Xie, S Kevin Zhou: "GraphInsight:
+Unlocking Insights in Large Language Models for Graph Structure Understanding".  [Paper](https://arxiv.org/abs/2409.03258)
 
 
 
