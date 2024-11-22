@@ -38,7 +38,7 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
-
+- <span style="color:gray;">**\[Arxiv\]**</span>  **Yukun Cao**, Zengyi Gao, Zhiyang Li, Xike Xie, S Kevin Zhou: "LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration".  [Paper](https://arxiv.org/abs/2411.05844)
 - <span style="color:gray;">**\[Arxiv\]**</span>  **Yukun Cao**, Shuo Han, Zengyi Gao, Zezhong Ding, Xike Xie, S Kevin Zhou: "GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding".  [Paper](https://arxiv.org/abs/2409.03258)
 - <span style="color:gray;">**\[Arxiv\]**</span>  Yuan Feng, Junlin Lv, **Yukun Cao**, Xike Xie, S. Kevin Zhou: "Optimizing KV Cache Eviction in
 LLMs: Adaptive Allocation for Enhanced Budget Utilization".  [Paper](https://arxiv.org/abs/2407.11550v3)
