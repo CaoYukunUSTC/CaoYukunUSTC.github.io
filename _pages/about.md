@@ -56,7 +56,7 @@ LLMs: Adaptive Allocation for Enhanced Budget Utilization".  [Paper](https://arx
 
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
-- 2024 **Weng Scholarship**.
+- 2024 **Suzhou Industrial Park Scholarship (苏州工业园区奖学金)** at USTC.
 - 2023 **Suzhou Industrial Park Scholarship (苏州工业园区奖学金)** at USTC.
 - 2022 **Yuan-Qing Scholarship (元庆奖学金，选拔中国科大计算机学院2022级的4名博士生)** at USTC (Selecting 4 PhD students in the 2022 class of School of Computer Science).
 - 2020 **Outstanding Graduates Award of Chongqing City (重庆市优秀毕业生)**.
