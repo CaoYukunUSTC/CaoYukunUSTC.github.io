@@ -30,10 +30,6 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 
 
 
-
-# 🔥 News
-<span class='anchor' id='-news'></span>
-
 - *2024.04*: &nbsp;🎉🎉 My personal homepage is online!
 
 # 📝 Publications 
