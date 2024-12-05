@@ -55,8 +55,8 @@ LLMs: Adaptive Allocation for Enhanced Budget Utilization".  [Paper](https://arx
 - 2022 **Yuan-Qing Scholarship (元庆奖学金，选拔中国科大计算机学院2022级的4名博士生)** at USTC (Selecting 4 PhD students in the 2022 class of School of Computer Science).
 - 2020 **Outstanding Graduates Award of Chongqing City (重庆市优秀毕业生)**.
 - 2020 **Scholarship of Gratitude to Chinese Modern and Contemporary Scientists (感恩中国近现代科学家奖学金，面向中国西部的985/211高校评选，每所高校只评选10名)** (Targeting 985/211 project Universities in Western China, each university has only 10 students).
-- 2020 **Pin-Sheng cholarship (品胜奖学金)** at SWU (Rate: $\approx$ 1/480).
-- 2019 **Yu-Hui cholarship (玉辉奖学金)** at SWU (Rate: $\approx$ 1/480).
+- 2020 **Pin-Sheng Scholarship (品胜奖学金)** at SWU (Rate: $\approx$ 1/480).
+- 2019 **Yu-Hui Scholarship (玉辉奖学金)** at SWU (Rate: $\approx$ 1/480).
 - 2017/2018/2019 three times **National Scholarship (三次获得 国家奖学金)** at SWU (Rate: $\approx$ 1/120).
 - 2019 **Excellence in Learning Award (学习优胜奖)** at SWU.
 - 2018 **Advanced Individual in Technological Innovation (科创先进个人称号)** at SWU.
