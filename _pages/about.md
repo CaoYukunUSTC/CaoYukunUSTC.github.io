@@ -30,8 +30,6 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 
 
 
-- *2024.04*: &nbsp;🎉🎉 My personal homepage is online!
-
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
 - <span style="color:gray;">**\[Arxiv\]**</span>  **Yukun Cao**, Zengyi Gao, Zhiyang Li, Xike Xie, S Kevin Zhou: "LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration".  [Paper](https://arxiv.org/abs/2411.05844)
