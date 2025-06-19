@@ -30,7 +30,7 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 
 
 
-# 📝 Selected Publications 
+# 📝 Publications 
 <span class='anchor' id='-publications'></span>
 
 - <span style="color:blue;">**\[PVLDB 25-Research Paper (CCF-A)\]**</span>  **Yukun Cao**, Zengyi Gao, Zhiyang Li, Xike Xie, S Kevin Zhou, Jianliang Xu: "LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration": *51st International Conference on Very Large Data Bases (PVLDB 2025)*.  [Paper](https://arxiv.org/abs/2411.05844)
