@@ -36,7 +36,8 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 
 
 
-
+<div style="background:#eef6ff; padding: 16px; margin-bottom: 24px; border-left: 6px solid #2b73af;">
+  <div style="font-size: 20px; font-weight: bold; margin-bottom: 12px;">🟦 第一/共一作者论文</div>
 
 - <span style="color:blue;">**\[PVLDB 25-Research Paper (CCF-A)\]**</span>  **Yukun Cao**, Zengyi Gao, Zhiyang Li, Xike Xie, S Kevin Zhou, Jianliang Xu: "LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration": *51st International Conference on Very Large Data Bases (PVLDB 2025)*.  [Paper](https://arxiv.org/abs/2411.05844)
 - <span style="color:red;">**\[TPAMI 24-Regular Paper (CCF-A)\]**</span> **Yukun Cao**, Yuan Feng, Hairu Wang, Xike Xie, S. Kevin Zhou: "Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data": *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*. [Paper](https://ieeexplore.ieee.org/document/10499867)
@@ -46,7 +47,7 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 - <span style="color:blue;">**\[ICLR 24-Spotlight Paper (Top AI conf.)\]**</span> Yuan Feng, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Xike Xie, S. Kevin Zhou: "Mayfly: a Neural Data Structure for Graph Stream Summarization": *The Twelfth International Conference on Learning Representations (ICLR 2024), __Spotlight (Rate:5%)__*. [Paper](https://openreview.net/pdf?id=n7Sr8SW4bn)
 - <span style="color:blue;">**\[ICML 25-Poster Paper (CCF-A)\]**</span>  Yuan Feng, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Xike Xie, S Kevin Zhou: "Lego Sketch: A Scalable Memory-augmented Neural Network for Sketching Data Streams": *Forty-second International Conference on Machine Learning (ICML 2025)*. [Paper]()
 - <span style="color:blue;">**\[ACL 25-Findings (CCF-A)\]**</span>   Zengyi Gao, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Ao Ke, Yuan Feng, Xike Xie, S Kevin Zhou: "FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs": *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*. [Paper](https://arxiv.org/pdf/2501.09957)
-
+</div>
 
 
 - <span style="color:blue;">**\[IJCAI 25-Long Paper (CCF-A)\]**</span> Ao Ke, Wenlong Chen, Chuanwen Feng, **Yukun Cao**, Xike Xie, S.Kevin Zhou, Lei Feng: "Prototype-based Optimal Transport for Out-of-Distribution Detection": *The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)*. [Paper](https://arxiv.org/abs/2410.07617)
