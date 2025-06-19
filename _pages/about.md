@@ -8,28 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-/* 主体块样式 */
-.section-block {
-  padding: 1.5em;
-  margin-bottom: 2em;
-  border-left: 5px solid #007acc;
-  background-color: #f9fcff;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-}
-
-/* 区块标题 */
-.section-block::before {
-  content: attr(data-title);
-  display: block;
-  font-size: 1.4em;
-  font-weight: bold;
-  color: #007acc;
-  margin-bottom: 0.8em;
-  border-bottom: 2px solid #007acc;
-  padding-bottom: 0.3em;
-}
-
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -57,7 +35,7 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 <span class='anchor' id='-publications'></span>
 
 
-<div class="section-block" data-title="🟦 第一/共一作者论文">
+
 
 
 - <span style="color:blue;">**\[PVLDB 25-Research Paper (CCF-A)\]**</span>  **Yukun Cao**, Zengyi Gao, Zhiyang Li, Xike Xie, S Kevin Zhou, Jianliang Xu: "LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration": *51st International Conference on Very Large Data Bases (PVLDB 2025)*.  [Paper](https://arxiv.org/abs/2411.05844)
@@ -68,7 +46,6 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 - <span style="color:blue;">**\[ICLR 24-Spotlight Paper (Top AI conf.)\]**</span> Yuan Feng, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Xike Xie, S. Kevin Zhou: "Mayfly: a Neural Data Structure for Graph Stream Summarization": *The Twelfth International Conference on Learning Representations (ICLR 2024), __Spotlight (Rate:5%)__*. [Paper](https://openreview.net/pdf?id=n7Sr8SW4bn)
 - <span style="color:blue;">**\[ICML 25-Poster Paper (CCF-A)\]**</span>  Yuan Feng, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Xike Xie, S Kevin Zhou: "Lego Sketch: A Scalable Memory-augmented Neural Network for Sketching Data Streams": *Forty-second International Conference on Machine Learning (ICML 2025)*. [Paper]()
 - <span style="color:blue;">**\[ACL 25-Findings (CCF-A)\]**</span>   Zengyi Gao, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Ao Ke, Yuan Feng, Xike Xie, S Kevin Zhou: "FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs": *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*. [Paper](https://arxiv.org/pdf/2501.09957)
-</div>
 
 
 
