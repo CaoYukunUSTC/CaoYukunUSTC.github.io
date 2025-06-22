@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Cao Yukun Personal Site"
-description              : ""
+title                    : "Cao Yukun (曹宇坤) Personal Site"
+description              : "中国科学技术大学（中科大） 曹宇坤；USTC Yukun Cao"
 repository               : "CaoYukunUSTC/CaoYukunUSTC.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
