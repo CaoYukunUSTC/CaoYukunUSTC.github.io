@@ -29,21 +29,26 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-<!-- 不蒜子页面访问量统计 -->
-<div align="center">
-  <span id="busuanzi_container_site_pv" style="display:inline">
-    👁️‍🗨️ 本站总访问量：<span id="busuanzi_value_site_pv"></span>
-  </span>
-  |
-  <span id="busuanzi_container_site_uv" style="display:inline">
-    👥 本站访客数：<span id="busuanzi_value_site_uv"></span>
-  </span>
+<!-- 📊 页面访问统计（不蒜子）+ 地图访客统计（ClustrMaps） -->
+<div align="center" style="margin-top: 30px; font-size: 16px; line-height: 1.8;">
+
+  <!-- 不蒜子访问量统计 -->
+  <div>
+    👁️‍🗨️ 本站总访问量：
+    <span id="busuanzi_value_site_pv"></span>
+    &nbsp;|&nbsp;
+    👥 本站访客数：
+    <span id="busuanzi_value_site_uv"></span>
+  </div>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  <!-- ClustrMaps 地图统计 -->
+  <div style="margin-top: 10px;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pnB63CXjrJfRHI_f9kOWTekAVg8GPor1HS5AulUMVrk&cl=ffffff&w=a"></script>
+  </div>
+
 </div>
 
-
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pnB63CXjrJfRHI_f9kOWTekAVg8GPor1HS5AulUMVrk&cl=ffffff&w=a"></script>
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 
     
