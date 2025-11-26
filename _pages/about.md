@@ -63,7 +63,7 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 - <span style="color:green;">**\[ICWE 19-Long Paper (CCF-C)\]**</span>  Xiaofei Xu, **Yukun Cao**, Li Li: "Exploring Semantic Change of Chinese Word Using Crawled Web Data": *Web Engineering-19th International Conference (ICWE 2019)*.
 - <span style="color:green;">**\[KSEM 19-Long Paper (CCF-C)\]**</span>  Kexin Huang, **Yukun Cao**, Ye Du, Li Li: "Social-Aware and Sequential Embedding for Cold-Start Recommendation": *Knowledge Science, Engineering and Management-12th International Conference (KSEM 2019)*.
 - <span style="color:gray;">**\[Arxiv\]**</span>  Yuan Feng, Junlin Lv, **Yukun Cao**, Xike Xie, S. Kevin Zhou: "Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective".  [Paper](https://arxiv.org/pdf/2502.03805)
-- <span style="color:gray;">**\[Arxiv\]**</span>  Shuo Han, ***Yukun Cao <sup>Co-First</sup>**, Zezhong Ding, Zengyi Gao, S Kevin Zhou, Xike Xie: "See or Say Graphs: Agent-Driven Scalable Graph Understanding with Vision-Language Models".  [Paper](https://arxiv.org/abs/2510.16769)
+- <span style="color:gray;">**\[Arxiv\]**</span>  Shuo Han, **Yukun Cao <sup>Co-First</sup>**, Zezhong Ding, Zengyi Gao, S Kevin Zhou, Xike Xie: "See or Say Graphs: Agent-Driven Scalable Graph Understanding with Vision-Language Models".  [Paper](https://arxiv.org/abs/2510.16769)
   
 <br>
 
