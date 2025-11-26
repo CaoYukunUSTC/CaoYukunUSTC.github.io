@@ -56,13 +56,13 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 <hr>
 - <span style="color:blue;">**\[NeurIPS 25-Poster Paper (CCF-A)\]**</span> Yuan Feng, Junlin Lv, **Yukun Cao**, Xike Xie, S Kevin Zhou : "Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference": *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)*. [Paper](https://arxiv.org/abs/2407.11550)
 - <span style="color:blue;">**\[IJCAI 25-Long Paper (CCF-A)\]**</span> Ao Ke, Wenlong Chen, Chuanwen Feng, **Yukun Cao**, Xike Xie, S.Kevin Zhou, Lei Feng: "Prototype-based Optimal Transport for Out-of-Distribution Detection": *The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)*. [Paper](https://arxiv.org/abs/2410.07617)
+- <span style="color:green;">**\[EMNLP 25-Findings Paper (CCF-B)\]**</span> Hairu Wang, Yuan Feng, **Yukun Cao**, Xike Xie, S Kevin Zhou: "SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness of Retrieved Context": *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*. [Paper]
 - <span style="color:green;">**\[GROUP 23-Demo Paper (CCF-B)\]**</span> Haoyun Li, **Yukun Cao**, Xike Xie: "VR-Explorer: A Demonstration of a Virtual Reality Interactive Data Exploration System": *The 2023 ACM International Conference on Supporting Group Work (GROUP 2023), Companion*. [Paper](https://dl.acm.org/doi/abs/10.1145/3565967.3570976), [Project Site](https://dataexplorevr.github.io/)
 - <span style="color:green;">**\[KSEM 19-Long Paper (CCF-C)\]**</span> Jingyuan Wang, **Yukun Cao**, Ye Du, Li Li: "DST: A Deep Urban Traffic Flow Prediction Framework Based on Spatial-Temporal Features": *Knowledge Science, Engineering and Management-12th International Conference (KSEM 2019)*. 
 - <span style="color:green;">**\[ICWE 19-Long Paper (CCF-C)\]**</span>  Xiaofei Xu, **Yukun Cao**, Li Li: "Exploring Semantic Change of Chinese Word Using Crawled Web Data": *Web Engineering-19th International Conference (ICWE 2019)*.
 - <span style="color:green;">**\[KSEM 19-Long Paper (CCF-C)\]**</span>  Kexin Huang, **Yukun Cao**, Ye Du, Li Li: "Social-Aware and Sequential Embedding for Cold-Start Recommendation": *Knowledge Science, Engineering and Management-12th International Conference (KSEM 2019)*.
-- <span style="color:gray;">**\[Arxiv\]**</span>  Yuan Feng, Junlin Lv, **Yukun Cao**, Xike Xie, S. Kevin Zhou: "Ada-kv: Optimizing kv cache eviction by adaptive budget allocation for efficient llm inference".  [Paper](https://arxiv.org/abs/2407.11550v3)
 - <span style="color:gray;">**\[Arxiv\]**</span>  Yuan Feng, Junlin Lv, **Yukun Cao**, Xike Xie, S. Kevin Zhou: "Identify Critical KV Cache in LLM Inference from an Output Perturbation Perspective".  [Paper](https://arxiv.org/pdf/2502.03805)
-
+- <span style="color:gray;">**\[Arxiv\]**</span>  Shuo Han, ***Yukun Cao <sup>Co-First</sup>**, Zezhong Ding, Zengyi Gao, S Kevin Zhou, Xike Xie: "See or Say Graphs: Agent-Driven Scalable Graph Understanding with Vision-Language Models".  [Paper](https://arxiv.org/abs/2510.16769)
 <br>
 
 
