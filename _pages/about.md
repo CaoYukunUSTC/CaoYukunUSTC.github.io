@@ -87,7 +87,7 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 # 📖 Educations
 <span class='anchor' id='-educations'></span>
 
-- **2022.09 - , PhD candidate in Computer Science.**
+- **2022.09 - 2025.11 , PhD candidate in Computer Science.**
 
     *School of Computer Science and Technology, University of Science and Technology of China (CS, USTC), Hefei, Anhui.*
 
